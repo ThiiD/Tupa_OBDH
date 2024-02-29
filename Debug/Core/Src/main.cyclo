@@ -1,0 +1,13 @@
+../Core/Src/main.c:89:5:main	6
+../Core/Src/main.c:154:6:SystemClock_Config	3
+../Core/Src/main.c:196:13:MX_SPI1_Init	2
+../Core/Src/main.c:234:13:MX_UART4_Init	2
+../Core/Src/main.c:267:13:MX_UART5_Init	2
+../Core/Src/main.c:300:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:333:13:MX_GPIO_Init	1
+../Core/Src/main.c:383:6:receivedFromBase	3
+../Core/Src/main.c:394:6:sendToAOCS	1
+../Core/Src/main.c:399:6:receivedFromAOCS	1
+../Core/Src/main.c:403:6:receivedFromPayload	1
+../Core/Src/main.c:407:6:sendToBase	1
+../Core/Src/main.c:418:6:Error_Handler	1
